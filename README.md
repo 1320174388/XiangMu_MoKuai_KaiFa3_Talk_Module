@@ -23,3 +23,7 @@ Talk_Module : 客服功能模块
 ## v1版本接口说明：自动回复功能，用户提问回复。
 
 ### `自行设计自动回复信息，仅限文本，用户可以自己提问问题，客服人员解答。`
+
+## 接口文档：
+
+### `https://www.kancloud.cn/dlth_xcx_mokuai_kaifa_tuandui/gongneng_mokuai_kaifa_wendang/661337`
